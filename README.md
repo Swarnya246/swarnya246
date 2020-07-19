@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on ...
 -->
 
-- 🔭 I’m currently working on a virtual giftcard marketplace.
+- 🔭 I’m currently working on a website portfolio for a writer.
 - 🌱 I’m currently learning python, C++, and web dev.
 - 📫 How to reach me: Feel free to reach out via email at contact@swarnya.me.
 - 😄 Pronouns: she/her/hers
