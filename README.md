@@ -8,7 +8,7 @@
 -->
 
 - 🔭 I’m currently working on a website portfolio for a writer.
-- 🌱 I’m currently learning python, C++, and web dev.
+- 🌱 I’m currently learning C++.
 - 📫 How to reach me: Feel free to reach out via email at contact@swarnya.me.
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I once ate 6.28 slices of pi on pie day. (I don't regret it.)
+- ⚡ Fun fact: I once ate 6.28 slices of pie on pi day.
