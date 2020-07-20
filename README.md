@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I once ate 6.28 slices of pie on pi day.
 -->
 
-**🔭 Currently Project:** Website portfolio for a writer
-**🌱 Currently Learning:** C++
-**📫 How to reach me:** Feel free to reach out via email at contact@swarnya.me.
-**😄 Pronouns:** she/her/hers
+**🔭 Currently Project:** Website portfolio for a writer \n
+**🌱 Currently Learning:** C++ \n
+**📫 How to reach me:** Feel free to reach out via email at contact@swarnya.me. \n
+**😄 Pronouns:** she/her/hers \n
