@@ -9,6 +9,6 @@
 -->
 
 **🔭 Currently Project:** Website portfolio for a writer<br>
-**🌱 Currently Learning:** C++
-**📫 How to reach me:** Feel free to reach out via email at contact@swarnya.me.
+**🌱 Currently Learning:** C++<br>
+**📫 How to reach me:** Feel free to reach out via email at contact@swarnya.me.<br>
 **😄 Pronouns:** she/her/hers
