@@ -6,9 +6,9 @@
 - 💬 Ask me about ...
 - 👯 I’m looking to collaborate on ...
 - ⚡ Fun fact: I once ate 6.28 slices of pie on pi day.
+**🔭 Currently Project:** Website portfolio for a writer<br>
 -->
 
-**🔭 Currently Project:** Website portfolio for a writer<br>
-**🌱 Currently Learning:** C++<br>
+**🌱 Currently Learning:** PHP and MySQL<br>
 **📫 How to reach me:** Feel free to reach out via email at contact@swarnya.me.<br>
 **😄 Pronouns:** she/her/hers
