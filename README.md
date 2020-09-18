@@ -12,6 +12,6 @@ I'm a freshman at Monta Vista High School. I like to code and listen to Planet M
 [![Swarnya's github stats](https://github-readme-stats.vercel.app/api?username=Swarnya246)](https://github.com/anuraghazra/github-readme-stats)
 
 **🌱 Currently Learning:** Capture the flaaggg<br>
-**🔭 Currently Project:** A website for my middle school's GWC club!<br>
+**🔭 Currently Project:** A website for a friend!<br>
 **👯 I’m looking to collaborate on:** Anything webdev!<br> 
 **📫 How to reach me:** Feel free to reach out via email at contact@swarnya.me.<br>
