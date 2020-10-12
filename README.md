@@ -6,12 +6,13 @@
 - 💬 Ask me about ...
 - ⚡ Fun fact: I once ate 6.28 slices of pie on pi day.
 **😄 Pronouns:** she/her/hers
+
+**🔭 Currently Project:** Nothing currently, I'm open for collabs or requests<br>
 -->
 I'm a freshman at Monta Vista High School. I like to code and listen to Planet Money Radio in my free time.
 
 [![Swarnya's github stats](https://github-readme-stats.vercel.app/api?username=Swarnya246)](https://github.com/anuraghazra/github-readme-stats)
 
-**🌱 Currently Learning:** Capture the flaaggg<br>
-**🔭 Currently Project:** A website for a friend!<br>
-**👯 I’m looking to collaborate on:** Anything webdev!<br> 
+**🌱 Currently Learning:** Django<br>
+**👯 I’m looking to collaborate on:** Anything webdev <br> 
 **📫 How to reach me:** Feel free to reach out via email at contact@swarnya.me.<br>
