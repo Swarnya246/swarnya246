@@ -13,6 +13,6 @@ I'm a freshman at Monta Vista High School. I like to code and listen to Planet M
 
 [![Swarnya's github stats](https://github-readme-stats.vercel.app/api?username=Swarnya246)](https://github.com/anuraghazra/github-readme-stats)
 
-**🌱 Currently <del>crying over</del>Learning:** Django<br>
-**👯 I’m looking to collaborate on:** Anything webdev <br> 
+**🌱 Currently learning:** Django<br>
+**👯 I’m looking to collaborate on:** Anything webdev<br> 
 **📫 How to reach me:** Feel free to reach out via email at contact@swarnya.me.<br>
